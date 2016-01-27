@@ -15,4 +15,5 @@ To collaborate in a redux talk
  * How they complement eachother
  * `connect`ing componentes
  * Tools: Hot Reloading & Redux DevTool
-* Real world example
+* Real world example: Full stack redux
+ * Using redux and socket.io to build a real time app featuring redux both in back end and the front end.
